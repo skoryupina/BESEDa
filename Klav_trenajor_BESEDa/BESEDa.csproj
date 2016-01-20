@@ -1,0 +1,358 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9C1A0110-EAEB-4B70-9CD4-583440DC672F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BESEDa</RootNamespace>
+    <AssemblyName>Klav_trenajor_BESEDa</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>chashka-kofe-na-blyudce.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SQLite, Version=1.0.94.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Properties\Externals\System.Data.SQLite.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.SQLite.EF6, Version=1.0.94.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Properties\Externals\System.Data.SQLite.EF6.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.SQLite.Linq, Version=1.0.94.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Properties\Externals\System.Data.SQLite.Linq.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Administrative\AddExercise.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administrative\AddExercise.Designer.cs">
+      <DependentUpon>AddExercise.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Administrative\ControlAccounts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administrative\ControlAccounts.Designer.cs">
+      <DependentUpon>ControlAccounts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Administrative\EditExercise.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administrative\EditExercise.Designer.cs">
+      <DependentUpon>EditExercise.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Administrative\Exercise.cs" />
+    <Compile Include="Administrative\Settings.cs" />
+    <Compile Include="Administrative\StatisticsOn1Exercise.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administrative\StatisticsOn1Exercise.Designer.cs">
+      <DependentUpon>StatisticsOn1Exercise.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Administrative\StatisticsOnExercises.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administrative\StatisticsOnExercises.Designer.cs">
+      <DependentUpon>StatisticsOnExercises.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Administrative\TrainerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administrative\TrainerForm.Designer.cs">
+      <DependentUpon>TrainerForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Administrative\SettingsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administrative\SettingsForm.Designer.cs">
+      <DependentUpon>SettingsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Administrative\WorkWithExercises.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administrative\WorkWithExercises.Designer.cs">
+      <DependentUpon>WorkWithExercises.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Authorization\EditAccountForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Authorization\EditAccountForm.Designer.cs">
+      <DependentUpon>EditAccountForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Authorization\SignUpForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Authorization\SignUpForm.Designer.cs">
+      <DependentUpon>SignUpForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Training\StatisticOfUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Training\StatisticOfUser.Designer.cs">
+      <DependentUpon>StatisticOfUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Authorization\TrainedForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Authorization\TrainedForm.Designer.cs">
+      <DependentUpon>TrainedForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Authorization\User.cs" />
+    <Compile Include="besedaDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>besedaDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="HelpSystem\AboutForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HelpSystem\AboutForm.Designer.cs">
+      <DependentUpon>AboutForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KeyboardTrainIndex.cs">
+      <SubType>Form</SubType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="KeyboardTrainIndex.designer.cs">
+      <DependentUpon>KeyboardTrainIndex.cs</DependentUpon>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Letter.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Letter.Designer.cs">
+      <DependentUpon>Letter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <None Include="Training\Level.cs" />
+    <Compile Include="Training\StatisticsOfExercise.cs" />
+    <Compile Include="Training\Training.cs" />
+    <Compile Include="Training\TrainingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Training\TrainingForm.Designer.cs">
+      <DependentUpon>TrainingForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Training\TrainingParametersForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Training\TrainingParametersForm.Designer.cs">
+      <DependentUpon>TrainingParametersForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vizualization\Area.cs" />
+    <Compile Include="Vizualization\KeyBoard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Vizualization\KeyBoard.Designer.cs">
+      <DependentUpon>KeyBoard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vizualization\Row.cs" />
+    <Compile Include="WorkWithDB.cs" />
+    <EmbeddedResource Include="Administrative\AddExercise.resx">
+      <DependentUpon>AddExercise.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administrative\ControlAccounts.resx">
+      <DependentUpon>ControlAccounts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administrative\EditExercise.resx">
+      <DependentUpon>EditExercise.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administrative\SettingsForm.resx">
+      <DependentUpon>SettingsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administrative\StatisticsOn1Exercise.resx">
+      <DependentUpon>StatisticsOn1Exercise.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administrative\StatisticsOnExercises.resx">
+      <DependentUpon>StatisticsOnExercises.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administrative\TrainerForm.resx">
+      <DependentUpon>TrainerForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administrative\WorkWithExercises.resx">
+      <DependentUpon>WorkWithExercises.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Authorization\EditAccountForm.resx">
+      <DependentUpon>EditAccountForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Authorization\SignUpForm.resx">
+      <DependentUpon>SignUpForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Training\StatisticOfUser.resx">
+      <DependentUpon>StatisticOfUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Authorization\TrainedForm.resx">
+      <DependentUpon>TrainedForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HelpSystem\AboutForm.resx">
+      <DependentUpon>AboutForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KeyboardTrainIndex.resx">
+      <DependentUpon>KeyboardTrainIndex.cs</DependentUpon>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Letter.resx">
+      <DependentUpon>Letter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Training\TrainingForm.resx">
+      <DependentUpon>TrainingForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Training\TrainingParametersForm.resx">
+      <DependentUpon>TrainingParametersForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vizualization\KeyBoard.resx">
+      <DependentUpon>KeyBoard.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="admin" />
+    <None Include="app.config" />
+    <None Include="beseda" />
+    <None Include="besedaDataSet.xsc">
+      <DependentUpon>besedaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="besedaDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>besedaDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="besedaDataSet.xss">
+      <DependentUpon>besedaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="settings" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\light-wooden-background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\b448eP8faO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Эмблема.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\photoshop-tutorial-wood-texture-6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\texture--brown--timber--beige_318726.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wooden-texture-древесина дерево доски.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1277440441_woods4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Enter.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Registration.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1277440441_woods4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lableBackground.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Begin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cancel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\help.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wooden-texture-050.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BeginTraining.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\controlAccount.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SettingsKT.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Statistics.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\workWithExercise.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BURLOAK.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="chashka-kofe-na-blyudce.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

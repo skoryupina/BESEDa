@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="BESEDa.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="besedaConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;data source="C:\Users\Danis\Documents\Visual Studio 2010\Projects\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\beseda.db"&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SQLite&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">data source="C:\Users\Danis\Documents\Visual Studio 2010\Projects\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\beseda.db"</Value>
+    </Setting>
+    <Setting Name="besedaConnectionString1" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;data source="C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\beseda"&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SQLite&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">data source="C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\beseda"</Value>
+    </Setting>
+    <Setting Name="besedaConnectionString2" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;data source="C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD - копия\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\beseda"&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SQLite&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">data source="C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD - копия\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\beseda"</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

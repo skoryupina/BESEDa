@@ -1,0 +1,484 @@
+C:\Users\Danis\documents\visual studio 2010\Projects\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.csproj.GenerateResource.Cache
+C:\Users\Danis\documents\visual studio 2010\Projects\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\bin\Debug\Klav_trenajor_BESEDa.exe.config
+C:\Users\Danis\documents\visual studio 2010\Projects\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\bin\Debug\Klav_trenajor_BESEDa.exe
+C:\Users\Danis\documents\visual studio 2010\Projects\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\bin\Debug\Klav_trenajor_BESEDa.pdb
+C:\Users\Danis\documents\visual studio 2010\Projects\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\obj\x86\Debug\Klav_trenajor_BESEDa.exe
+C:\Users\Danis\documents\visual studio 2010\Projects\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\obj\x86\Debug\Klav_trenajor_BESEDa.pdb
+C:\Users\Danis\Documents\Visual Studio 2010\Projects\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Properties.Resources.resources
+C:\Users\Danis\Documents\Visual Studio 2010\Projects\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Form1.resources
+C:\Users\Danis\Documents\Visual Studio 2010\Projects\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.csprojResolveAssemblyReference.cache
+C:\Users\Danis\Documents\Visual Studio 2010\Projects\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.dll
+C:\Users\Danis\Documents\Visual Studio 2010\Projects\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.pdb
+C:\Users\Danis\Documents\Visual Studio 2010\Projects\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Danis\Documents\Visual Studio 2010\Projects\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.Linq.pdb
+C:\Users\Danis\Documents\Visual Studio 2010\Projects\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.xml
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Версия Даниса\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\bin\Debug\Klav_trenajor_BESEDa.exe.config
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Версия Даниса\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\obj\x86\Debug\Klav_trenajor_BESEDa.exe
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Версия Даниса\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\obj\x86\Debug\Klav_trenajor_BESEDa.pdb
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Версия Даниса\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\bin\Debug\Klav_trenajor_BESEDa.exe
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Версия Даниса\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\bin\Debug\Klav_trenajor_BESEDa.pdb
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Версия Даниса\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.dll
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Версия Даниса\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.Linq.dll
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Версия Даниса\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.pdb
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Версия Даниса\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.xml
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Версия Даниса\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.Linq.pdb
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Версия Даниса\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Form1.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Версия Даниса\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Properties.Resources.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Версия Даниса\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.csproj.GenerateResource.Cache
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Версия Даниса\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.EF6.dll
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Версия Даниса\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\bin\Debug\EntityFramework.dll
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Версия Даниса\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.EF6.pdb
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Версия Даниса\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.EF6.xml
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Версия Даниса\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.Linq.xml
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Версия Даниса\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.KeyboardTrainIndex.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Версия Даниса\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.AboutForm.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Версия Даниса\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.editAccountForm.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Версия Даниса\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.signUpForm.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Версия Даниса\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.trainedForm.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Версия Даниса\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.TrainingForm.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Версия Даниса\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.trainingParametersForm.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa-с формами\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\bin\Debug\Klav_trenajor_BESEDa.exe.config
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa-с формами\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\obj\x86\Debug\Klav_trenajor_BESEDa.exe
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa-с формами\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\obj\x86\Debug\Klav_trenajor_BESEDa.pdb
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa-с формами\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\bin\Debug\Klav_trenajor_BESEDa.exe
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa-с формами\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\bin\Debug\Klav_trenajor_BESEDa.pdb
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa-с формами\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.dll
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa-с формами\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa-с формами\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa-с формами\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\bin\Debug\EntityFramework.dll
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa-с формами\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.pdb
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa-с формами\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.xml
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa-с формами\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.EF6.pdb
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa-с формами\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.EF6.xml
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa-с формами\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.Linq.pdb
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa-с формами\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.Linq.xml
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa-с формами\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.editAccountForm.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa-с формами\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.signUpForm.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa-с формами\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.trainedForm.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa-с формами\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Form1.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa-с формами\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.AboutForm.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa-с формами\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.KeyboardTrainIndex.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa-с формами\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Properties.Resources.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa-с формами\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.TrainingForm.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa-с формами\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.trainingParametersForm.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa-с формами\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.csproj.GenerateResource.Cache
+C:\Users\Danis\Desktop\Зеленко\Новая папка\Klav_trenajor_BESEDa-Вызов запросов на Form1\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\bin\Debug\Klav_trenajor_BESEDa.exe.config
+C:\Users\Danis\Desktop\Зеленко\Новая папка\Klav_trenajor_BESEDa-Вызов запросов на Form1\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\obj\x86\Debug\Klav_trenajor_BESEDa.exe
+C:\Users\Danis\Desktop\Зеленко\Новая папка\Klav_trenajor_BESEDa-Вызов запросов на Form1\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\obj\x86\Debug\Klav_trenajor_BESEDa.pdb
+C:\Users\Danis\Desktop\Зеленко\Новая папка\Klav_trenajor_BESEDa-Вызов запросов на Form1\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\bin\Debug\Klav_trenajor_BESEDa.exe
+C:\Users\Danis\Desktop\Зеленко\Новая папка\Klav_trenajor_BESEDa-Вызов запросов на Form1\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\bin\Debug\Klav_trenajor_BESEDa.pdb
+C:\Users\Danis\Desktop\Зеленко\Новая папка\Klav_trenajor_BESEDa-Вызов запросов на Form1\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.dll
+C:\Users\Danis\Desktop\Зеленко\Новая папка\Klav_trenajor_BESEDa-Вызов запросов на Form1\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Danis\Desktop\Зеленко\Новая папка\Klav_trenajor_BESEDa-Вызов запросов на Form1\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Danis\Desktop\Зеленко\Новая папка\Klav_trenajor_BESEDa-Вызов запросов на Form1\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\bin\Debug\EntityFramework.dll
+C:\Users\Danis\Desktop\Зеленко\Новая папка\Klav_trenajor_BESEDa-Вызов запросов на Form1\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.pdb
+C:\Users\Danis\Desktop\Зеленко\Новая папка\Klav_trenajor_BESEDa-Вызов запросов на Form1\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.xml
+C:\Users\Danis\Desktop\Зеленко\Новая папка\Klav_trenajor_BESEDa-Вызов запросов на Form1\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.EF6.pdb
+C:\Users\Danis\Desktop\Зеленко\Новая папка\Klav_trenajor_BESEDa-Вызов запросов на Form1\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.EF6.xml
+C:\Users\Danis\Desktop\Зеленко\Новая папка\Klav_trenajor_BESEDa-Вызов запросов на Form1\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.Linq.pdb
+C:\Users\Danis\Desktop\Зеленко\Новая папка\Klav_trenajor_BESEDa-Вызов запросов на Form1\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.Linq.xml
+C:\Users\Danis\Desktop\Зеленко\Новая папка\Klav_trenajor_BESEDa-Вызов запросов на Form1\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.csprojResolveAssemblyReference.cache
+C:\Users\Danis\Desktop\Зеленко\Новая папка\Klav_trenajor_BESEDa-Вызов запросов на Form1\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.editAccountForm.resources
+C:\Users\Danis\Desktop\Зеленко\Новая папка\Klav_trenajor_BESEDa-Вызов запросов на Form1\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.signUpForm.resources
+C:\Users\Danis\Desktop\Зеленко\Новая папка\Klav_trenajor_BESEDa-Вызов запросов на Form1\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.trainedForm.resources
+C:\Users\Danis\Desktop\Зеленко\Новая папка\Klav_trenajor_BESEDa-Вызов запросов на Form1\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Form1.resources
+C:\Users\Danis\Desktop\Зеленко\Новая папка\Klav_trenajor_BESEDa-Вызов запросов на Form1\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.AboutForm.resources
+C:\Users\Danis\Desktop\Зеленко\Новая папка\Klav_trenajor_BESEDa-Вызов запросов на Form1\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.KeyboardTrainIndex.resources
+C:\Users\Danis\Desktop\Зеленко\Новая папка\Klav_trenajor_BESEDa-Вызов запросов на Form1\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Properties.Resources.resources
+C:\Users\Danis\Desktop\Зеленко\Новая папка\Klav_trenajor_BESEDa-Вызов запросов на Form1\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.TrainingForm.resources
+C:\Users\Danis\Desktop\Зеленко\Новая папка\Klav_trenajor_BESEDa-Вызов запросов на Form1\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.trainingParametersForm.resources
+C:\Users\Danis\Desktop\Зеленко\Новая папка\Klav_trenajor_BESEDa-Вызов запросов на Form1\Klav_trenajor_BESEDa\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.csproj.GenerateResource.Cache
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - new\Klav_trenajor_BESEDa\bin\Debug\Klav_trenajor_BESEDa.exe.config
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - new\Klav_trenajor_BESEDa\obj\x86\Debug\Klav_trenajor_BESEDa.exe
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - new\Klav_trenajor_BESEDa\obj\x86\Debug\Klav_trenajor_BESEDa.pdb
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - new\Klav_trenajor_BESEDa\bin\Debug\Klav_trenajor_BESEDa.exe
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - new\Klav_trenajor_BESEDa\bin\Debug\Klav_trenajor_BESEDa.pdb
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - new\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.dll
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - new\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.EF6.dll
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - new\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.Linq.dll
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - new\Klav_trenajor_BESEDa\bin\Debug\EntityFramework.dll
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - new\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.pdb
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - new\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.xml
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - new\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.EF6.pdb
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - new\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.EF6.xml
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - new\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.Linq.pdb
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - new\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.Linq.xml
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - new\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.editAccountForm.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - new\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.signUpForm.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - new\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.trainedForm.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - new\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.AboutForm.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - new\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.KeyboardTrainIndex.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - new\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Properties.Resources.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - new\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.TrainingForm.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - new\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.trainingParametersForm.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - new\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.csproj.GenerateResource.Cache
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - new\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.controlAccounts.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - new\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Administrative.TrainerForm.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - с началом администратора\Klav_trenajor_BESEDa - new\Klav_trenajor_BESEDa\bin\Debug\Klav_trenajor_BESEDa.exe.config
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - с началом администратора\Klav_trenajor_BESEDa - new\Klav_trenajor_BESEDa\obj\x86\Debug\Klav_trenajor_BESEDa.exe
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - с началом администратора\Klav_trenajor_BESEDa - new\Klav_trenajor_BESEDa\obj\x86\Debug\Klav_trenajor_BESEDa.pdb
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - с началом администратора\Klav_trenajor_BESEDa - new\Klav_trenajor_BESEDa\bin\Debug\Klav_trenajor_BESEDa.exe
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - с началом администратора\Klav_trenajor_BESEDa - new\Klav_trenajor_BESEDa\bin\Debug\Klav_trenajor_BESEDa.pdb
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - с началом администратора\Klav_trenajor_BESEDa - new\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.dll
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - с началом администратора\Klav_trenajor_BESEDa - new\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - с началом администратора\Klav_trenajor_BESEDa - new\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - с началом администратора\Klav_trenajor_BESEDa - new\Klav_trenajor_BESEDa\bin\Debug\EntityFramework.dll
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - с началом администратора\Klav_trenajor_BESEDa - new\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.pdb
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - с началом администратора\Klav_trenajor_BESEDa - new\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.xml
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - с началом администратора\Klav_trenajor_BESEDa - new\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.EF6.pdb
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - с началом администратора\Klav_trenajor_BESEDa - new\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.EF6.xml
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - с началом администратора\Klav_trenajor_BESEDa - new\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.Linq.pdb
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - с началом администратора\Klav_trenajor_BESEDa - new\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.Linq.xml
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - с началом администратора\Klav_trenajor_BESEDa - new\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Administrative.TrainerForm.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - с началом администратора\Klav_trenajor_BESEDa - new\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.EditAccountForm.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - с началом администратора\Klav_trenajor_BESEDa - new\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.SignUpForm.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - с началом администратора\Klav_trenajor_BESEDa - new\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.TrainedForm.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - с началом администратора\Klav_trenajor_BESEDa - new\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.ControlAccounts.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - с началом администратора\Klav_trenajor_BESEDa - new\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.AboutForm.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - с началом администратора\Klav_trenajor_BESEDa - new\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.KeyboardTrainIndex.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - с началом администратора\Klav_trenajor_BESEDa - new\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Properties.Resources.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - с началом администратора\Klav_trenajor_BESEDa - new\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.TrainingForm.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - с началом администратора\Klav_trenajor_BESEDa - new\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.TrainingParametersForm.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - с началом администратора\Klav_trenajor_BESEDa - new\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.csproj.GenerateResource.Cache
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - с началом администратора\Klav_trenajor_BESEDa - new\Klav_trenajor_BESEDa\bin\Debug\admin
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - с началом администратора\Klav_trenajor_BESEDa - new\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Authorization.StatisticOfUser.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - с началом администратора\Klav_trenajor_BESEDa - new\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Administrative.AddExercise.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - с началом администратора\Klav_trenajor_BESEDa - new\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Administrative.EditExercise.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - с началом администратора\Klav_trenajor_BESEDa - new\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Administrative.StatisticsOn1Exercise.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - с началом администратора\Klav_trenajor_BESEDa - new\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Administrative.WorkWithExercises.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - с началом администратора\Klav_trenajor_BESEDa - new\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Administrative.StatisticsOnExercises.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - с началом администратора\Klav_trenajor_BESEDa - new\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Administrative.SettingsForm.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - с началом администратора\Klav_trenajor_BESEDa - new\Klav_trenajor_BESEDa\bin\Debug\beseda
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - с началом администратора\Klav_trenajor_BESEDa - new\Klav_trenajor_BESEDa\bin\Debug\KeyboardTrainIndex.resx
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - с началом администратора\Klav_trenajor_BESEDa - new\Klav_trenajor_BESEDa\bin\Debug\KeyboardTrainIndex.cs
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - с началом администратора\Klav_trenajor_BESEDa - new\Klav_trenajor_BESEDa\bin\Debug\KeyboardTrainIndex.designer.cs
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - с началом администратора\Klav_trenajor_BESEDa - new\Klav_trenajor_BESEDa\bin\Debug\settings
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - с началом администратора\Klav_trenajor_BESEDa - new\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.csprojResolveAssemblyReference.cache
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\Klav_trenajor_BESEDa.exe.config
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\Klav_trenajor_BESEDa.exe
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\Klav_trenajor_BESEDa.pdb
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Administrative.AddExercise.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Administrative.EditExercise.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Administrative.SettingsForm.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Administrative.StatisticsOn1Exercise.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Administrative.StatisticsOnExercises.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Administrative.TrainerForm.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Administrative.WorkWithExercises.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.EditAccountForm.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.SignUpForm.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Authorization.StatisticOfUser.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.TrainedForm.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.ControlAccounts.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.AboutForm.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.KeyboardTrainIndex.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Letter.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Properties.Resources.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.TrainingForm.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.TrainingParametersForm.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Vizualization.KeyBoard.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.csproj.GenerateResource.Cache
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\KeyboardTrainIndex.resx
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\KeyboardTrainIndex.cs
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\KeyboardTrainIndex.designer.cs
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\admin
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\beseda
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\settings
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\Klav_trenajor_BESEDa.exe
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\Klav_trenajor_BESEDa.pdb
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.dll
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.EF6.dll
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.Linq.dll
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\EntityFramework.dll
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.pdb
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.xml
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.EF6.pdb
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.EF6.xml
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.Linq.pdb
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.Linq.xml
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\Klav_trenajor_BESEDa.exe.config
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\Klav_trenajor_BESEDa.exe
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\Klav_trenajor_BESEDa.pdb
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\KeyboardTrainIndex.resx
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\KeyboardTrainIndex.cs
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\KeyboardTrainIndex.designer.cs
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\admin
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\beseda
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\settings
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\Klav_trenajor_BESEDa.exe
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\Klav_trenajor_BESEDa.pdb
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.dll
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\EntityFramework.dll
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.pdb
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.xml
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.EF6.pdb
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.EF6.xml
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.Linq.pdb
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.Linq.xml
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Administrative.AddExercise.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Administrative.EditExercise.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Administrative.SettingsForm.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Administrative.StatisticsOn1Exercise.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Administrative.StatisticsOnExercises.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Administrative.TrainerForm.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Administrative.WorkWithExercises.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.EditAccountForm.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.SignUpForm.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Authorization.StatisticOfUser.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.TrainedForm.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.ControlAccounts.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.AboutForm.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.KeyboardTrainIndex.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Letter.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Properties.Resources.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.TrainingForm.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.TrainingParametersForm.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Vizualization.KeyBoard.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.csproj.GenerateResource.Cache
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.csprojResolveAssemblyReference.cache
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD - копия\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\Klav_trenajor_BESEDa.exe.config
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD - копия\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\Klav_trenajor_BESEDa.exe
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD - копия\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\Klav_trenajor_BESEDa.pdb
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD - копия\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\KeyboardTrainIndex.resx
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD - копия\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\KeyboardTrainIndex.cs
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD - копия\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\KeyboardTrainIndex.designer.cs
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD - копия\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\admin
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD - копия\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\beseda
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD - копия\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\Klav_trenajor_BESEDa.exe
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD - копия\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\Klav_trenajor_BESEDa.pdb
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD - копия\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.dll
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD - копия\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD - копия\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD - копия\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\EntityFramework.dll
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD - копия\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.pdb
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD - копия\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.xml
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD - копия\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.EF6.pdb
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD - копия\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.EF6.xml
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD - копия\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.Linq.pdb
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD - копия\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.Linq.xml
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD - копия\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Administrative.AddExercise.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD - копия\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Administrative.EditExercise.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD - копия\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Administrative.SettingsForm.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD - копия\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Administrative.StatisticsOn1Exercise.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD - копия\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Administrative.StatisticsOnExercises.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD - копия\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Administrative.TrainerForm.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD - копия\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Administrative.WorkWithExercises.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD - копия\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.EditAccountForm.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD - копия\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.SignUpForm.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD - копия\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Authorization.StatisticOfUser.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD - копия\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.TrainedForm.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD - копия\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.ControlAccounts.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD - копия\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.AboutForm.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD - копия\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.KeyboardTrainIndex.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD - копия\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Letter.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD - копия\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Properties.Resources.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD - копия\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.TrainingForm.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD - копия\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.TrainingParametersForm.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD - копия\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Vizualization.KeyBoard.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD - копия\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.csproj.GenerateResource.Cache
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - newD - копия\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.csprojResolveAssemblyReference.cache
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - check\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\Klav_trenajor_BESEDa.exe.config
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - check\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\Klav_trenajor_BESEDa.exe
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - check\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\Klav_trenajor_BESEDa.pdb
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - check\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\admin
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - check\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\beseda
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - check\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\KeyboardTrainIndex.resx
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - check\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\KeyboardTrainIndex.cs
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - check\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\KeyboardTrainIndex.designer.cs
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - check\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\Klav_trenajor_BESEDa.exe
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - check\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\Klav_trenajor_BESEDa.pdb
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - check\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.dll
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - check\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.EF6.dll
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - check\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.Linq.dll
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - check\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\EntityFramework.dll
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - check\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.pdb
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - check\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.xml
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - check\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.EF6.pdb
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - check\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.EF6.xml
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - check\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.Linq.pdb
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - check\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.Linq.xml
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - check\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Administrative.AddExercise.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - check\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.ControlAccounts.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - check\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Administrative.EditExercise.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - check\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Administrative.SettingsForm.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - check\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Administrative.StatisticsOn1Exercise.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - check\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Administrative.StatisticsOnExercises.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - check\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Administrative.TrainerForm.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - check\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Administrative.WorkWithExercises.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - check\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.EditAccountForm.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - check\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.SignUpForm.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - check\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Authorization.StatisticOfUser.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - check\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.TrainedForm.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - check\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.AboutForm.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - check\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.KeyboardTrainIndex.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - check\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Letter.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - check\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Properties.Resources.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - check\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.TrainingForm.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - check\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.TrainingParametersForm.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - check\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Vizualization.KeyBoard.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - check\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.csproj.GenerateResource.Cache
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\Klav_trenajor_BESEDa.exe.config
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\Klav_trenajor_BESEDa.exe
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\Klav_trenajor_BESEDa.pdb
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\KeyboardTrainIndex.resx
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\KeyboardTrainIndex.cs
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\KeyboardTrainIndex.designer.cs
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\admin
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\beseda
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\Klav_trenajor_BESEDa.exe
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\Klav_trenajor_BESEDa.pdb
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.dll
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\EntityFramework.dll
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.pdb
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.xml
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.EF6.pdb
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.EF6.xml
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.Linq.pdb
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.Linq.xml
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.csprojResolveAssemblyReference.cache
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Administrative.AddExercise.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.ControlAccounts.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Administrative.EditExercise.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Administrative.SettingsForm.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Administrative.StatisticsOn1Exercise.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Administrative.StatisticsOnExercises.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Administrative.TrainerForm.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Administrative.WorkWithExercises.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.EditAccountForm.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.SignUpForm.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Authorization.StatisticOfUser.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.TrainedForm.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.AboutForm.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.KeyboardTrainIndex.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Letter.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Properties.Resources.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.TrainingForm.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.TrainingParametersForm.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Vizualization.KeyBoard.resources
+C:\Users\Danis\Desktop\Зеленко\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.csproj.GenerateResource.Cache
+C:\Users\Елизавета\Desktop\УЧЕБКА\4 курс\Тех. проганье\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\Klav_trenajor_BESEDa.exe.config
+C:\Users\Елизавета\Desktop\УЧЕБКА\4 курс\Тех. проганье\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\Klav_trenajor_BESEDa.exe
+C:\Users\Елизавета\Desktop\УЧЕБКА\4 курс\Тех. проганье\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\Klav_trenajor_BESEDa.pdb
+C:\Users\Елизавета\Desktop\УЧЕБКА\4 курс\Тех. проганье\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\admin
+C:\Users\Елизавета\Desktop\УЧЕБКА\4 курс\Тех. проганье\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\beseda
+C:\Users\Елизавета\Desktop\УЧЕБКА\4 курс\Тех. проганье\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\KeyboardTrainIndex.resx
+C:\Users\Елизавета\Desktop\УЧЕБКА\4 курс\Тех. проганье\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\KeyboardTrainIndex.cs
+C:\Users\Елизавета\Desktop\УЧЕБКА\4 курс\Тех. проганье\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\KeyboardTrainIndex.designer.cs
+C:\Users\Елизавета\Desktop\УЧЕБКА\4 курс\Тех. проганье\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\Klav_trenajor_BESEDa.exe
+C:\Users\Елизавета\Desktop\УЧЕБКА\4 курс\Тех. проганье\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\Klav_trenajor_BESEDa.pdb
+C:\Users\Елизавета\Desktop\УЧЕБКА\4 курс\Тех. проганье\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.dll
+C:\Users\Елизавета\Desktop\УЧЕБКА\4 курс\Тех. проганье\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Елизавета\Desktop\УЧЕБКА\4 курс\Тех. проганье\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Елизавета\Desktop\УЧЕБКА\4 курс\Тех. проганье\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\EntityFramework.dll
+C:\Users\Елизавета\Desktop\УЧЕБКА\4 курс\Тех. проганье\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.pdb
+C:\Users\Елизавета\Desktop\УЧЕБКА\4 курс\Тех. проганье\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.xml
+C:\Users\Елизавета\Desktop\УЧЕБКА\4 курс\Тех. проганье\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.EF6.pdb
+C:\Users\Елизавета\Desktop\УЧЕБКА\4 курс\Тех. проганье\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.EF6.xml
+C:\Users\Елизавета\Desktop\УЧЕБКА\4 курс\Тех. проганье\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.Linq.pdb
+C:\Users\Елизавета\Desktop\УЧЕБКА\4 курс\Тех. проганье\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.Linq.xml
+C:\Users\Елизавета\Desktop\УЧЕБКА\4 курс\Тех. проганье\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Елизавета\Desktop\УЧЕБКА\4 курс\Тех. проганье\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Administrative.AddExercise.resources
+C:\Users\Елизавета\Desktop\УЧЕБКА\4 курс\Тех. проганье\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.ControlAccounts.resources
+C:\Users\Елизавета\Desktop\УЧЕБКА\4 курс\Тех. проганье\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Administrative.EditExercise.resources
+C:\Users\Елизавета\Desktop\УЧЕБКА\4 курс\Тех. проганье\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Administrative.SettingsForm.resources
+C:\Users\Елизавета\Desktop\УЧЕБКА\4 курс\Тех. проганье\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Administrative.StatisticsOn1Exercise.resources
+C:\Users\Елизавета\Desktop\УЧЕБКА\4 курс\Тех. проганье\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Administrative.StatisticsOnExercises.resources
+C:\Users\Елизавета\Desktop\УЧЕБКА\4 курс\Тех. проганье\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Administrative.TrainerForm.resources
+C:\Users\Елизавета\Desktop\УЧЕБКА\4 курс\Тех. проганье\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Administrative.WorkWithExercises.resources
+C:\Users\Елизавета\Desktop\УЧЕБКА\4 курс\Тех. проганье\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.EditAccountForm.resources
+C:\Users\Елизавета\Desktop\УЧЕБКА\4 курс\Тех. проганье\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.SignUpForm.resources
+C:\Users\Елизавета\Desktop\УЧЕБКА\4 курс\Тех. проганье\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Authorization.StatisticOfUser.resources
+C:\Users\Елизавета\Desktop\УЧЕБКА\4 курс\Тех. проганье\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.TrainedForm.resources
+C:\Users\Елизавета\Desktop\УЧЕБКА\4 курс\Тех. проганье\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.AboutForm.resources
+C:\Users\Елизавета\Desktop\УЧЕБКА\4 курс\Тех. проганье\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.KeyboardTrainIndex.resources
+C:\Users\Елизавета\Desktop\УЧЕБКА\4 курс\Тех. проганье\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Letter.resources
+C:\Users\Елизавета\Desktop\УЧЕБКА\4 курс\Тех. проганье\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Properties.Resources.resources
+C:\Users\Елизавета\Desktop\УЧЕБКА\4 курс\Тех. проганье\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.TrainingForm.resources
+C:\Users\Елизавета\Desktop\УЧЕБКА\4 курс\Тех. проганье\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.TrainingParametersForm.resources
+C:\Users\Елизавета\Desktop\УЧЕБКА\4 курс\Тех. проганье\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Vizualization.KeyBoard.resources
+C:\Users\Елизавета\Desktop\УЧЕБКА\4 курс\Тех. проганье\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Елизавета\Desktop\УЧЕБКА\4 курс\Тех. проганье\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Danis\Desktop\Зеленко\ГОТОВЫЙ\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\Klav_trenajor_BESEDa.exe.config
+C:\Users\Danis\Desktop\Зеленко\ГОТОВЫЙ\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\Klav_trenajor_BESEDa.exe
+C:\Users\Danis\Desktop\Зеленко\ГОТОВЫЙ\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\Klav_trenajor_BESEDa.pdb
+C:\Users\Danis\Desktop\Зеленко\ГОТОВЫЙ\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\KeyboardTrainIndex.resx
+C:\Users\Danis\Desktop\Зеленко\ГОТОВЫЙ\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\KeyboardTrainIndex.cs
+C:\Users\Danis\Desktop\Зеленко\ГОТОВЫЙ\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\KeyboardTrainIndex.designer.cs
+C:\Users\Danis\Desktop\Зеленко\ГОТОВЫЙ\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\Klav_trenajor_BESEDa.exe
+C:\Users\Danis\Desktop\Зеленко\ГОТОВЫЙ\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\Klav_trenajor_BESEDa.pdb
+C:\Users\Danis\Desktop\Зеленко\ГОТОВЫЙ\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.dll
+C:\Users\Danis\Desktop\Зеленко\ГОТОВЫЙ\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Danis\Desktop\Зеленко\ГОТОВЫЙ\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Danis\Desktop\Зеленко\ГОТОВЫЙ\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\EntityFramework.dll
+C:\Users\Danis\Desktop\Зеленко\ГОТОВЫЙ\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.pdb
+C:\Users\Danis\Desktop\Зеленко\ГОТОВЫЙ\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.xml
+C:\Users\Danis\Desktop\Зеленко\ГОТОВЫЙ\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.EF6.pdb
+C:\Users\Danis\Desktop\Зеленко\ГОТОВЫЙ\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.EF6.xml
+C:\Users\Danis\Desktop\Зеленко\ГОТОВЫЙ\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.Linq.pdb
+C:\Users\Danis\Desktop\Зеленко\ГОТОВЫЙ\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.Linq.xml
+C:\Users\Danis\Desktop\Зеленко\ГОТОВЫЙ\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Administrative.AddExercise.resources
+C:\Users\Danis\Desktop\Зеленко\ГОТОВЫЙ\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.ControlAccounts.resources
+C:\Users\Danis\Desktop\Зеленко\ГОТОВЫЙ\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Administrative.EditExercise.resources
+C:\Users\Danis\Desktop\Зеленко\ГОТОВЫЙ\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Administrative.SettingsForm.resources
+C:\Users\Danis\Desktop\Зеленко\ГОТОВЫЙ\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Administrative.StatisticsOn1Exercise.resources
+C:\Users\Danis\Desktop\Зеленко\ГОТОВЫЙ\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Administrative.StatisticsOnExercises.resources
+C:\Users\Danis\Desktop\Зеленко\ГОТОВЫЙ\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Administrative.TrainerForm.resources
+C:\Users\Danis\Desktop\Зеленко\ГОТОВЫЙ\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Administrative.WorkWithExercises.resources
+C:\Users\Danis\Desktop\Зеленко\ГОТОВЫЙ\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.EditAccountForm.resources
+C:\Users\Danis\Desktop\Зеленко\ГОТОВЫЙ\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.SignUpForm.resources
+C:\Users\Danis\Desktop\Зеленко\ГОТОВЫЙ\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Authorization.StatisticOfUser.resources
+C:\Users\Danis\Desktop\Зеленко\ГОТОВЫЙ\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.TrainedForm.resources
+C:\Users\Danis\Desktop\Зеленко\ГОТОВЫЙ\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.AboutForm.resources
+C:\Users\Danis\Desktop\Зеленко\ГОТОВЫЙ\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.KeyboardTrainIndex.resources
+C:\Users\Danis\Desktop\Зеленко\ГОТОВЫЙ\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Letter.resources
+C:\Users\Danis\Desktop\Зеленко\ГОТОВЫЙ\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Properties.Resources.resources
+C:\Users\Danis\Desktop\Зеленко\ГОТОВЫЙ\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.TrainingForm.resources
+C:\Users\Danis\Desktop\Зеленко\ГОТОВЫЙ\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.TrainingParametersForm.resources
+C:\Users\Danis\Desktop\Зеленко\ГОТОВЫЙ\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Vizualization.KeyBoard.resources
+C:\Users\Danis\Desktop\Зеленко\ГОТОВЫЙ\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.csproj.GenerateResource.Cache
+C:\Users\Danis\Desktop\Зеленко\ГОТОВЫЙ\Klav_trenajor_BESEDa - последняя с тренировкой\Klav_trenajor_BESEDa - newD\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.csprojResolveAssemblyReference.cache
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - release\Klav_trenajor_BESEDa\bin\Debug\Klav_trenajor_BESEDa.exe.config
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - release\Klav_trenajor_BESEDa\obj\x86\Debug\Klav_trenajor_BESEDa.exe
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - release\Klav_trenajor_BESEDa\obj\x86\Debug\Klav_trenajor_BESEDa.pdb
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - release\Klav_trenajor_BESEDa\bin\Debug\KeyboardTrainIndex.resx
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - release\Klav_trenajor_BESEDa\bin\Debug\KeyboardTrainIndex.cs
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - release\Klav_trenajor_BESEDa\bin\Debug\KeyboardTrainIndex.designer.cs
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - release\Klav_trenajor_BESEDa\bin\Debug\Klav_trenajor_BESEDa.exe
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - release\Klav_trenajor_BESEDa\bin\Debug\Klav_trenajor_BESEDa.pdb
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - release\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.dll
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - release\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.EF6.dll
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - release\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.Linq.dll
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - release\Klav_trenajor_BESEDa\bin\Debug\EntityFramework.dll
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - release\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.pdb
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - release\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.xml
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - release\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.EF6.pdb
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - release\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.EF6.xml
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - release\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.Linq.pdb
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - release\Klav_trenajor_BESEDa\bin\Debug\System.Data.SQLite.Linq.xml
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - release\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.csprojResolveAssemblyReference.cache
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - release\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Administrative.AddExercise.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - release\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.ControlAccounts.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - release\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Administrative.EditExercise.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - release\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Administrative.SettingsForm.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - release\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Administrative.StatisticsOn1Exercise.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - release\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Administrative.StatisticsOnExercises.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - release\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Administrative.TrainerForm.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - release\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Administrative.WorkWithExercises.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - release\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.EditAccountForm.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - release\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.SignUpForm.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - release\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Authorization.StatisticOfUser.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - release\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.TrainedForm.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - release\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.AboutForm.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - release\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.KeyboardTrainIndex.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - release\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Letter.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - release\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Properties.Resources.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - release\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.TrainingForm.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - release\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.TrainingParametersForm.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - release\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.Vizualization.KeyBoard.resources
+D:\4 курс\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - release\Klav_trenajor_BESEDa\obj\x86\Debug\BESEDa.csproj.GenerateResource.Cache
+D:\1_Bachelor Degree\4 курс\7 семестр\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - release\Klav_trenajor_BESEDa\bin\Debug\Klav_trenajor_BESEDa.exe.config
+D:\1_Bachelor Degree\4 курс\7 семестр\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - release\Klav_trenajor_BESEDa\obj\x86\Debug\Klav_trenajor_BESEDa.exe
+D:\1_Bachelor Degree\4 курс\7 семестр\Технологии программирования\Клавиатурный тренажер БЕСЕДа\Klav_trenajor_BESEDa - release\Klav_trenajor_BESEDa\obj\x86\Debug\Klav_trenajor_BESEDa.pdb
